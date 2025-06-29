@@ -7,6 +7,11 @@
 - 📖 SSAFY 13th
 - 🌏 Available languages: **Korean, Japanese**
 
+## 🧠 Personality [![MBTI: INTJ](https://img.shields.io/badge/MBTI-INTJ-brightgreen?style=for-the-badge&logo=personality-insights)](https://www.16personalities.com/intj-personality)
+
+[![MBTI Percentage](./assets/MBTI.png)](https://www.16personalities.com/ko/결과/intj-t/m/2ug0ydz05)
+
+
 ## 🛠️ Tech Stacks
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
